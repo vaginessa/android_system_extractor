@@ -422,9 +422,9 @@ EXT_START() {
   clear
   echo
   echo
-  cecho W "" "                        Marshmallow/Lollipop             "
+  cecho W "" "                     Support android 5.x ~ 7.x           "
   cecho W "" "                     System extractor & repack           "
-  cecho G "                           (" "by matrix" ")"
+  cecho G "                           (" "Mod by dinphy" ")"
   cecho C "" "                                                     $DATE_STR"
   echo
   cecho W "" "    Menu"
