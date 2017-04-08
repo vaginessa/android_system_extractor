@@ -20,7 +20,7 @@ Extractor for linux , ON GOING DEVELOPMENT
 
 	# ./ext 
 
-![Extractor Linux/Cygwin](https://github.com/matriex/System_Extractor-Linux/blob/master/EXTRACTOR.PNG.png "EXTRACTOR")
+![Extractor Linux/Cygwin](https://github.com/DinphyMod/System_Extractor-Linux/blob/master/EXTRACTOR.PNG.png "EXTRACTOR")
 
 ## git clone到本地使用
 	git clone https://github.com/DinphyMod/System_Extractor-Linux.git
